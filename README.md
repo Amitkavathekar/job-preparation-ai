@@ -80,14 +80,5 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
-
-**Amit Kavathekar**
-Frontend Developer
-
-🔗 GitHub: https://github.com/Ray541
-
----
-
 ⭐ If you found this project useful, consider giving it a star!
 
